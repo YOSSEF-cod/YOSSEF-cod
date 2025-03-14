@@ -3,7 +3,7 @@
 </p><h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="100" height="100" /></h1>
 
 # 📊 GitHub Stats:
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/ybounite" alt="ybounite's 42 stats" width="100" height="100"/></a>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ybounite" alt="ybounite" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
